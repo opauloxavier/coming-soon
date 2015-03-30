@@ -40,7 +40,7 @@
 	</div>
 		<div class="row-fluid">
 			<div class="col-md-4 col-md-offset-4 text-center">
-				<h2>Estamos surgindo!</h2>
+				<h2>Estaremos surgindo!</h2>
 			</div>
 		</div>
 		<div class="row-fluid">
